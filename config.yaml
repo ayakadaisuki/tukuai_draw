@@ -1,0 +1,12 @@
+master_qq:  # ✅ 你的管理员 QQ（额度绑定账号）
+api_key: "" # 填入你购买的秘钥
+api_base: "http://datukuai.top:1450"
+txt2img_path: "/ht2.php"       # 文生图接口路径
+cooldown_sec: 30               # 用户冷却时间（秒）
+default_prompt: "masterpiece, best quality, 1girl"
+negative_prompt: "lowres, bad anatomy, bad hands, text, error"
+width: 512
+height: 768
+steps: 28
+cfg_scale: 7.0
+sampler: "Euler a"
