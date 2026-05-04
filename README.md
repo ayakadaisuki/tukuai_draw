@@ -1,2 +1,4 @@
 # tukuai_draw
-在astrbot上调用土块画图的自用插件
+在Astrbot上调用土块画图的自用插件
+
+原插件地址https://github.com/SmallK111407/earth-k-plugin
